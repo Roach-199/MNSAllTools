@@ -13,7 +13,9 @@ printf "\e[1;32m\t    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[0m\n"
 printf "\e[1;37m\t               |M|N|S|A|l|l|T|o|o|l|s|   \e[0m\n"
 printf "\e[1;32m\t    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+\e[0m\n"
 printf "\n"
-printf "\e[1;40m\t            Created by:\e[0m\e[1;42mSirManishKumar\e[0m\n"
+printf "\e[1;40m\t            Created by:\e[0m\e[1;42m⛧⸸
+RoacH⸸
+⛧\e[0m\n"
 printf "\n"
 
 printf "\e[1;93m====================[\e[0m\e[1;95mAll Tools Installer]\e[0m\e[1;93m=====================\e[0m\n"
